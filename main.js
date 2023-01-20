@@ -32,7 +32,7 @@ const principaisCriptomoedas = [
     "cardano",
     "ethereum",
     "xrp",
-    "mald",
+    "meld",
     "solana",
     "litecoin",
     "ripple",
