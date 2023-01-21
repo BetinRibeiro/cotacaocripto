@@ -16,3 +16,5 @@ Tecnologias
     JavaScript (ES6+)
     HTML5
     CSS3
+
+https://betinribeiro.github.io/cotacaocripto/
