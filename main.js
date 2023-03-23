@@ -39,7 +39,7 @@ async function consultaPreco(criptomoeda) {
    
     newRow.innerHTML = `
     <td>${criptomoeda.toUpperCase()}</td>
-    <td>${converteDolarReal(preco)}</td>       
+    <td>${(preco)}</td>       
     <td>${maximo.toFixed(2)} bi</td>       
     `
     document.querySelector('#tabela>tbody').appendChild(newRow)
